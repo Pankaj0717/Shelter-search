@@ -11,13 +11,18 @@ html {
 }
 nav {
   background-color: #333;
-  padding: 10px 0;
+  padding: 10px 10px 20px;
+  text-align: center;
 }
 
 nav a {
   color: #ffffff;
   text-decoration: none;
   margin: 0 15px;
+  display: inline-block;
+  padding: 10px;
+  font-weight: bold;
+  text-transform: uppercase; 
 }
 
 section {
